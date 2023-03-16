@@ -15,3 +15,5 @@ npm run dev
 This runs the app on your localhost. The output looks something like this:
 <img width="813" alt="image" src="https://user-images.githubusercontent.com/97759804/225662194-45ffeeb2-d1d1-43bc-a09d-b7268d74274a.png">
 
+The entire project is inside the react-app directory.
+
